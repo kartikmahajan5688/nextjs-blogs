@@ -5,7 +5,7 @@ module.exports = (phase) => {
     return {
       env: {
         mongodb_username: "kartikmahajan5688",
-        mongodb_password: "CQ53Z7T3o2Wb2BHP",
+        mongodb_password: "9805445174",
         mongodb_clustername: "cluster0",
         mongodb_database: "nextjs-blogs-dev",
       },
@@ -15,7 +15,7 @@ module.exports = (phase) => {
   return {
     env: {
       mongodb_username: "kartikmahajan5688",
-      mongodb_password: "CQ53Z7T3o2Wb2BHP",
+      mongodb_password: "9805445174",
       mongodb_clustername: "cluster0",
       mongodb_database: "nextjs-blogs",
     },
